@@ -2,4 +2,4 @@
 Matlab program to compute entropy, capacity, mutual information...
 
 
-						to be finished
+(This program has not been completed yet.)
