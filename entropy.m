@@ -4,7 +4,7 @@ function H = entropy(px)
 %Entropy H(X) is the amount of uncertainty about a random variable X.
 %H(X) = -sum_x pX(x)log2 pX(x)
 %log base 2 entropy
-
+px = px(:);
 assert( all(px >= 0),'p(x) are not all non-negative');
 assert( abs( 1 - sum(px) ) < 1E-10, 'px does not sum to 1');
 
