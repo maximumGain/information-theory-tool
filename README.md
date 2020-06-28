@@ -22,3 +22,13 @@ An important random variable is the binary random variable. Let X with X = {0, 1
 pX(x) = p if x=0 and pX(x) = 1-p if x=1. Then H(X) = −p log p−(1−p)log(1−p).
 
                                                                                                                                         to be continued...
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+v1.0    June 29, 2020   Initial release
