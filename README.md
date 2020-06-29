@@ -1,7 +1,15 @@
 # information-theory-tool
-This toolbox contains Matlab source code for basic computations in information theory, including entropy, conditional entropy,  mutual information, capacity and rate distortion.
+This toolbox contains Matlab source code for basic computations in information theory.
 
-Individual functions and several examples are provided, as well as their experiment results shown in figures.
+You can compute: 
+
+-   entropy 
+-   conditional entropy 
+-   mutual information 
+-   channel capacity 
+-   rate distortion
+
+Functions and several examples are provided, as well as their experiment results in figures.
 
 
                                                                                                                                
