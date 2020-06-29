@@ -1,9 +1,10 @@
 # information-theory-tool
 This toolbox contains Matlab source code for basic computations in information theory, including entropy, conditional entropy,  mutual information, capacity and rate distortion.
 
-Individual functions and several examples are provided, as well as their experiment results shown in PDFs.
+Individual functions and several examples are provided, as well as their experiment results shown in figures.
 
 
+<<<<<<< HEAD
 -----------------------------------------------------------------------------------------------------------------------------------
 The documentation is not completed, but here is part of it. 
 
@@ -32,3 +33,12 @@ pX(x) = p if x=0 and pX(x) = 1-p if x=1. Then H(X) = −p log p−(1−p)log(1�
 
 
 v1.0    June 29, 2020   Initial release
+=======
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+v1.0    June 28, 2020   Initial release
+>>>>>>> local
